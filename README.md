@@ -1,1 +1,1 @@
-# Firmware for Mio
+# Firmware for Mio-U
